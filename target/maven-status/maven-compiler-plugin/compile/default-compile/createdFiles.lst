@@ -1,0 +1,17 @@
+TP\entities\Employe.class
+TP\entities\Personne.class
+TP\entities\Magasin.class
+TP\entities\ArticleCommande.class
+sn\ept\git\dic2\tpjpa\ListEmploye.class
+sn\ept\git\dic2\tpjpa\ListProduit.class
+TP\entities\Produit.class
+sn\ept\git\dic2\tpjpa\TPJPA.class
+TP\entities\StockPK.class
+TP\entities\Adresse.class
+TP\entities\Categorie.class
+TP\entities\ArticleCommandePK.class
+TP\entities\Stock.class
+sn\ept\git\dic2\tpjpa\ListStock.class
+TP\entities\Client.class
+TP\entities\Commande.class
+TP\entities\Marque.class
